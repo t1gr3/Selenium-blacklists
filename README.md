@@ -1,4 +1,4 @@
-# Selenium-blacklists-whit-headless
+# Selenium blacklists headless
 
 The site of example is https://mxtoolbox.com
 
