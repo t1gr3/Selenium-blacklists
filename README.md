@@ -1,5 +1,9 @@
 # Selenium-blacklists-whit-headless
 
-URL usage:
+The site of example is https://mxtoolbox.com
 
-https://mxtoolbox.com
+----------------------
+
+Install selenium: pip install -U selenium
+
+Install driver firefox: https://github.com/mozilla/geckodriver/releases
