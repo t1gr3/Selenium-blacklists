@@ -27,7 +27,7 @@ for line in blacklists:
 	time.sleep(5)
 
 
-	campo_verificacion = navegador.find_element_by_xpath("/html/body/form/div[3]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/div[4]/div[2]/span/div[1]/div[3]/strong[3]")
+	campo_verificacion = navegador.find_element_by_xpath("/html/body/form/div[3]/div/div[2]/div/div[3]/div[2]/span/div/div[3]/strong[3]")
 	verificacion = campo_verificacion.text
 
 	time.sleep(1)
